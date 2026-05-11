@@ -67,9 +67,9 @@ Relevant coursework: *Classical Dynamics · Linear Algebra · Advanced Calculus 
 
 ## Quantitative stack &amp; technologies
 
-<span class="tag">Python</span><span class="tag">R</span><span class="tag">SQL</span><span class="tag">Java</span><span class="tag">VBA</span>  
-<span class="tag">PyTorch</span><span class="tag">scikit-learn</span><span class="tag">pandas</span><span class="tag">statsmodels</span><span class="tag">plotly</span><span class="tag">matplotlib</span>  
-<span class="tag">Bloomberg Terminal</span><span class="tag">Bloomberg API</span><span class="tag">SecDb</span><span class="tag">Tableau</span><span class="tag">Excel</span>
+<span class="tag">Python/ </span><span class="tag">R/ </span><span class="tag">SQL/ </span><span class="tag">Java/ </span><span class="tag">VBA/ </span>  
+<span class="tag">PyTorch/ </span><span class="tag">scikit-learn/ </span><span class="tag">pandas/ </span><span class="tag">statsmodels/ </span><span class="tag">plotly/ </span><span class="tag">matplotlib</span>  
+<span class="tag">Bloomberg Terminal/ </span><span class="tag">Bloomberg API/ </span><span class="tag">SecDb/ </span><span class="tag">Tableau/ </span><span class="tag">Excel</span>
 
 ---
 
