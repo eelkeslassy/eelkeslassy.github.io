@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research proposal
+title: Research Proposal
 nav: true
 nav_order: 4
 permalink: /research/proposal/
