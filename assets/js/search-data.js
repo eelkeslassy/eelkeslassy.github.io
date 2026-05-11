@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/research/";
           },
         },{id: "nav-research-proposal",
-          title: "research proposal",
+          title: "Research Proposal",
           description: "Signature-based generative Neural SDEs, path signatures, and FEDONets for LOB microstructure.",
           section: "Navigation",
           handler: () => {
