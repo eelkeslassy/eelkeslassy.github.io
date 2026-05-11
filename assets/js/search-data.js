@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/research/proposal/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "DeepLOB generative simulator and Alpha-Gen systematic research engine.",
           section: "Navigation",
           handler: () => {
