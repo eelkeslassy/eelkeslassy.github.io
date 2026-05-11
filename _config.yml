@@ -1,0 +1,27 @@
+# GitHub Pages + Jekyll — https://pages.github.com/
+theme: jekyll-theme-minimal
+
+title: "Eliott Elkeslassy — Research & Quantitative Engineering"
+description: >-
+  Quantitative research at the boundary of stochastic analysis and market microstructure:
+  cointegration-aware systematic signals, diffusion-based synthetic LOB experiments,
+  and diagnostics that survive transaction costs and regime shifts.
+
+lang: en-US
+url: "https://toliero.github.io"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  hard_wrap: false
+
+# Sidebar clutter off — navigation lives in the main column (see _includes/nav.html).
+show_downloads: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

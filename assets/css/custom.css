@@ -1,0 +1,61 @@
+/* Layered on top of jekyll-theme-minimal (pages-themes/minimal). */
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.6rem;
+  margin: 0 0 1.25rem;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid #e8e8e8;
+  border-radius: 6px;
+  background: #fafafa;
+  font-size: 0.95rem;
+}
+
+.site-nav a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+.site-nav .sep {
+  color: #bbb;
+  user-select: none;
+}
+
+section > h1:first-of-type,
+section > h2:first-of-type {
+  margin-top: 0.25rem;
+}
+
+.callout {
+  border-left: 4px solid #267cb9;
+  padding: 0.75rem 1rem;
+  margin: 1.25rem 0;
+  background: #f6f9fc;
+}
+
+.muted {
+  color: #666;
+  font-size: 0.92rem;
+}
+
+.tag {
+  display: inline-block;
+  margin: 0.15rem 0.35rem 0.15rem 0;
+  padding: 0.15rem 0.55rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  background: #fff;
+}
+
+@media (max-width: 960px) {
+  .site-nav {
+    justify-content: flex-start;
+  }
+}
