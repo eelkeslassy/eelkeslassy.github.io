@@ -21,7 +21,7 @@ latest_posts:
   enabled: false
 ---
 
-<p class="text-muted"><strong>Executive research summary</strong> — quantitative models first; narrative second.</p>
+<p class="text-muted"><strong>Research-oriented approach to markets</strong> —  Models to uncover hidden narratives.</p>
 
 My work sits at the boundary between **stochastic calculus** and **market microstructure**: identifying structures (cointegration, rough volatility, regime dependence), then stress-test it with the frictions that usually destroy backtests—**transaction costs**, partial fills, and explicit **model-risk** budgets.
 
