@@ -23,11 +23,11 @@ latest_posts:
 
 <p class="text-muted"><strong>Executive research summary</strong> — quantitative models first; narrative second.</p>
 
-My work sits at the boundary between **stochastic analysis** and **market microstructure**: identify structure (cointegration, rough volatility, regime dependence), then stress it with the frictions that usually destroy backtests—**transaction costs**, partial fills, and explicit **model-risk** budgets.
+My work sits at the boundary between **stochastic calculus** and **market microstructure**: identifying structures (cointegration, rough volatility, regime dependence), then stress-test it with the frictions that usually destroy backtests—**transaction costs**, partial fills, and explicit **model-risk** budgets.
 
-The arc begins in **pure mathematics** at the University of Texas at Austin (dynamics, linear algebra, advanced calculus) and moves toward **applied inference**: SDE intuition for controlled hedging, stability arguments for discretizations, and estimation under dependent data without pretending independence.
+The arc began in the rigorous formalisms of French Preparatory Classes, then fostered during an exchange in Mathematics at the University of Texas at Austin. This foundation focused on classical dynamics and linear algebra, where the standard was absolute proof and stability analysis; this intuition now governs my approach to Stochastics and Controlled SDEs. The goal is to maintain the mathematical honesty of the hypothesis when passing from discrete hedging to continuous-time limits.
 
-From **HEC Paris** into the **University of St. Gallen** (Quantitative Economics & Finance), the emphasis is operational: state a falsifiable hypothesis, choose the **minimum** set of assumptions that keep it identifiable, and validate under **regime shifts**. In practice, that means research systems that can survive scrutiny—**cointegration filtering** before mean reversion, **rolling diagnostics** (underwater drawdown, rolling Sharpe) before capital, and **microstructure-aware simulation** when the data-generating process is not Markovian.
+Bridging HEC Paris and the University of St. Gallen (MiQEF), the focus has shifted to the operational reality of Applied Inference. In practice, this means building research systems that survive institutional scrutiny: implementing Engle-Granger cointegration filtering to ensure stationarity before mean reversion, and utilizing Rolling Diagnostics (MAE/MFE, underwater drawdown) to identify regime-dependency. When the data-generating process is non-Markovian—as seen in Limit Order Book microstructure—the objective is to identify the minimal set of statistical assumptions that still admit robust, non-trivial tests.
 
 ### Explore
 
