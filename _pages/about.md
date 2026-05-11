@@ -6,8 +6,6 @@ subtitle: Quantitative research & mathematical finance · Paris · St. Gallen / 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false
   more_info: >
     <p>Paris, France</p>
     <p><a href="mailto:eliott.elkeslassy@hec.edu">eliott.elkeslassy@hec.edu</a> · +33 6 95 35 97 22</p>
