@@ -60,11 +60,3 @@ python3 run_alpha_report.py \
   '{"strategy":"dual_class_arb","start":"2022-01-01","end":"2024-01-01","asset_a":"GOOG","asset_b":"GOOGL","benchmark":"SPY","lookback":60,"entry_z":2.0,"exit_z":0.5,"transaction_cost_bps":2.0}' \
   ./output/report.html
 ```
-
----
-
-## This GitHub Pages site
-
-**Repository:** [github.com/eelkeslassy/eelkeslassy.github.io](https://github.com/eelkeslassy/eelkeslassy.github.io)
-
-Static **Jekyll** site (minimal theme) deployed from `main` via GitHub Pages. Edit Markdown in the repo root; Jekyll rebuilds on push.
