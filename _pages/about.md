@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: Quantitative research & mathematical finance · Paris · St. Gallen / HEC
