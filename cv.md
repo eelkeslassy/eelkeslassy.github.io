@@ -6,7 +6,7 @@ permalink: /cv/
 **Eliott Elkeslassy**  
 Paris, France  
 [eliott.elkeslassy@hec.edu](mailto:eliott.elkeslassy@hec.edu) · +33 6 95 35 97 22  
-[GitHub profile](https://github.com/toliero) · [toliero.github.io](https://toliero.github.io/)
+[GitHub profile](https://github.com/eelkeslassy) · [eelkeslassy.github.io](https://eelkeslassy.github.io/)
 
 ---
 

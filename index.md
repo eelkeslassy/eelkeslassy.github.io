@@ -17,6 +17,7 @@ From **HEC Paris** into the **University of St. Gallen** (Quantitative Economics
 <div class="callout">
   <p><strong>Explore this site:</strong>
   <a href="/research/">Research themes</a> ·
+  <a href="/research/proposal/">Research proposal</a> ·
   <a href="/projects/">Open-source labs</a> ·
   <a href="/cv/">Curriculum vitae</a></p>
 </div>
@@ -25,5 +26,5 @@ From **HEC Paris** into the **University of St. Gallen** (Quantitative Economics
 
 | Lab | Role |
 | --- | --- |
-| [DeepLOB — Generative Simulator](https://github.com/toliero/DeepLOB-Generative-Simulator) | Diffusion-style synthetic microstructure; Hurst-type regimes; stylized-fact dashboard. |
-| [Alpha-Gen — Research Engine](https://github.com/toliero/Alpha-Gen) | Multi-strategy vectorized backtests; Johansen / Engle–Granger evidence; Plotly diagnostics. |
+| [DeepLOB — Generative Simulator](https://github.com/eelkeslassy/DeepLOB-Generative-Simulator) | Diffusion-style synthetic microstructure; Hurst-type regimes; stylized-fact dashboard. |
+| [Alpha-Gen — Research Engine](https://github.com/eelkeslassy/Alpha-Gen) | Multi-strategy vectorized backtests; Johansen / Engle–Granger evidence; Plotly diagnostics. |

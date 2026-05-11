@@ -1,8 +1,8 @@
-# toliero.github.io
+# eelkeslassy.github.io
 
-Personal **GitHub Pages** site for Eliott Elkeslassy, published at **https://toliero.github.io**.
+Personal **GitHub Pages** site for Eliott Elkeslassy, published at **https://eelkeslassy.github.io**.
 
-Built with **Jekyll** and the **[Minimal](https://github.com/pages-themes/minimal)** theme (`_config.yml`), plus a small custom layout override for navigation and `assets/css/custom.css` for readability.
+Built with **Jekyll** and the **[Minimal](https://github.com/pages-themes/minimal)** theme (`_config.yml`), plus a small custom layout override for navigation, **MathJax** for equations on the research proposal page, and `assets/css/custom.css` for readability.
 
 ## Pages
 
@@ -10,6 +10,7 @@ Built with **Jekyll** and the **[Minimal](https://github.com/pages-themes/minima
 | --- | --- |
 | `/` | Executive summary & quick links |
 | `/research/` | Research themes & methodology |
+| `/research/proposal/` | Full research proposal (signatures, Neural SDEs, FEDONets) |
 | `/projects/` | DeepLOB + Alpha-Gen descriptions & quickstarts |
 | `/cv/` | Curriculum vitae |
 

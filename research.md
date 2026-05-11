@@ -5,11 +5,13 @@ permalink: /research/
 
 This page collects the **research through-line** behind the public repositories: non-Markovian microstructure, systematic signals under frictions, and reproducible evaluation.
 
+**Full programme:** read the standalone document **[Research proposal: Signature-based generative SDEs](/research/proposal/)** (Neural SDEs, path signatures, FEDONets, LOBSTER-scale validation).
+
 ## Non-Markovian LOB dynamics & rough volatility
 
 Electronic limit order books exhibit **path dependence**, **volatility clustering**, and **heavy tails** that are poorly approximated by Markovian diffusions with constant volatility. A productive modeling stance is to treat volatility as a **rough** process (Hurst exponent **H < ½**) and to study how **algorithmic coupling** (**ρ**) concentrates liquidity risk during stress.
 
-The [DeepLOB simulator](https://github.com/toliero/DeepLOB-Generative-Simulator) is a **controlled laboratory**: toggle rough-volatility regimes and coupling, generate synthetic paths, and compare distributional signatures to empirical benchmarks (stylized facts, ACF structure, tail behavior).
+The [DeepLOB simulator](https://github.com/eelkeslassy/DeepLOB-Generative-Simulator) is a **controlled laboratory**: toggle rough-volatility regimes and coupling, generate synthetic paths, and compare distributional signatures to empirical benchmarks (stylized facts, ACF structure, tail behavior).
 
 ## Systematic signals & cointegration discipline
 
@@ -20,7 +22,7 @@ Mean-reversion on spreads without a **cointegration** argument is fragile. The w
 - **Rolling z-scores** with **entry/exit hysteresis**  
 - **Transaction costs** applied via turnover, plus optional **stop / take-profit** controls  
 
-The [Alpha-Gen engine](https://github.com/toliero/Alpha-Gen) packages this into a **vectorized backtester** with benchmark-relative metrics (information ratio, tracking error, beta), tail diagnostics (skew, kurtosis), drawdown paths, and **information coefficient** (signal vs next-day returns).
+The [Alpha-Gen engine](https://github.com/eelkeslassy/Alpha-Gen) packages this into a **vectorized backtester** with benchmark-relative metrics (information ratio, tracking error, beta), tail diagnostics (skew, kurtosis), drawdown paths, and **information coefficient** (signal vs next-day returns).
 
 ## Stochastic control viewpoint (hedging & execution)
 

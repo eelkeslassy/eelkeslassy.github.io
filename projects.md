@@ -9,7 +9,7 @@ Open-source **research-grade** implementations you can clone, run, and extend. B
 
 ## DeepLOB — Generative diffusion for synthetic microstructure
 
-**Repository:** [github.com/toliero/DeepLOB-Generative-Simulator](https://github.com/toliero/DeepLOB-Generative-Simulator)
+**Repository:** [github.com/eelkeslassy/DeepLOB-Generative-Simulator](https://github.com/eelkeslassy/DeepLOB-Generative-Simulator)
 
 **What it is.** A **diffusion-style generative sandbox** for synthetic market paths with regime knobs (including **rough volatility** via Hurst-type controls and **algorithmic coupling ρ**). The orchestrator coordinates data retrieval, a PyTorch diffusion core, and a **stylized-facts evaluation** suite (Matplotlib dashboard + JSON experiment report).
 
@@ -20,7 +20,7 @@ Open-source **research-grade** implementations you can clone, run, and extend. B
 **Quickstart.**
 
 ```bash
-git clone https://github.com/toliero/DeepLOB-Generative-Simulator.git
+git clone https://github.com/eelkeslassy/DeepLOB-Generative-Simulator.git
 cd DeepLOB-Generative-Simulator
 python3 -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -32,7 +32,7 @@ python3 research_main.py --rough_vol --hurst 0.10 --coupling 0.35
 
 ## Alpha-Gen — Systematic alpha research engine
 
-**Repository:** [github.com/toliero/Alpha-Gen](https://github.com/toliero/Alpha-Gen)
+**Repository:** [github.com/eelkeslassy/Alpha-Gen](https://github.com/eelkeslassy/Alpha-Gen)
 
 **What it is.** A **multi-strategy** research stack with **vectorized backtesting**, **cointegration diagnostics**, and a **four-panel Plotly** report (equity vs benchmark, rolling vol / Sharpe, underwater drawdown, monthly heatmap).
 
@@ -48,7 +48,7 @@ python3 research_main.py --rough_vol --hurst 0.10 --coupling 0.35
 **Quickstart.**
 
 ```bash
-git clone https://github.com/toliero/Alpha-Gen.git
+git clone https://github.com/eelkeslassy/Alpha-Gen.git
 cd Alpha-Gen
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
@@ -61,6 +61,6 @@ python3 run_alpha_report.py \
 
 ## This GitHub Pages site
 
-**Repository:** [github.com/toliero/toliero.github.io](https://github.com/toliero/toliero.github.io)
+**Repository:** [github.com/eelkeslassy/eelkeslassy.github.io](https://github.com/eelkeslassy/eelkeslassy.github.io)
 
 Static **Jekyll** site (minimal theme) deployed from `main` via GitHub Pages. Edit Markdown in the repo root; Jekyll rebuilds on push.
