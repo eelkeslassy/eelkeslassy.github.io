@@ -36,6 +36,7 @@ Paris, France
 
 - **Python** tooling for pricing automation, reporting, and market-data aggregation.  
 - Refined models for **corporate macro exposure** to support trade-idea generation.
+- Leveraged statistical methods and real-time data to monitor market trends to produce actionable insights for traders on the desk.
 
 ### HEC Paris Research Centre — Research Assistant, Applied Mathematics
 **Dec 2024 – Mar 2025**
@@ -78,4 +79,4 @@ Relevant coursework: *Classical Dynamics · Linear Algebra · Advanced Calculus 
 | --- | --- |
 | French | Native |
 | English | Fluent |
-| German | Intermediate |
+| Spanish | Intermediate |
