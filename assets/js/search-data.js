@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-research",
-          title: "research",
+          title: "Research",
           description: "Non-Markovian microstructure, systematic signals under frictions, and reproducible evaluation.",
           section: "Navigation",
           handler: () => {
