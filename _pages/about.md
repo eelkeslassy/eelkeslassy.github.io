@@ -23,7 +23,7 @@ latest_posts:
 
 <p class="text-muted"><strong>Research-oriented approach to markets</strong> —  Models to uncover hidden narratives.</p>
 
-My work sits at the boundary between **stochastic calculus** and **market microstructure**: identifying structures (cointegration, rough volatility, regime dependence), then stress-test it with the frictions that usually destroy backtests—**transaction costs**, partial fills, and explicit **model-risk** budgets.
+My work sits at the boundary between **stochastic calculus** and **market microstructure**: identifying structures (cointegration, rough volatility, regime dependence), then stress-test it with the frictions that usually destroy backtests : **transaction costs**, partial fills, and explicit **model-risk** budgets.
 
 The arc began in the rigorous formalisms of French Preparatory Classes, then fostered during an exchange in Mathematics at the University of Texas at Austin. This foundation focused on classical dynamics and linear algebra, where the standard was absolute proof and stability analysis; this intuition now governs my approach to Stochastics and Controlled SDEs. The goal is to maintain the mathematical honesty of the hypothesis when passing from discrete hedging to continuous-time limits.
 
